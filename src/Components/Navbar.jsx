@@ -9,7 +9,7 @@ const Navbar = () => {
             </span>
         </div>
         
-        <a href='' className='my-9 cursor-pointer decoration-0 flex gap-10 text-3xl hover:font-bold transition-all'>Go To Codebase</a>
+        <a href='https://github.com/Vandit-Buch/todo.git' className='my-9 cursor-pointer decoration-0 flex gap-10 text-3xl hover:font-bold transition-all'>Go To Codebase</a>
     </nav>
   )
 }
